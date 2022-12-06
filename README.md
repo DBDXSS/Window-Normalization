@@ -1,6 +1,6 @@
 # Window-Normalization
-[![PWC](https://paperswithcode.com/paper/window-normalization-enhancing-point-cloud)](https://paperswithcode.com/paper/window-normalization-enhancing-point-cloud)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/paper/window-normalization-enhancing-point-cloud)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=pointnext-revisiting-pointnet-with-improved)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/window-normalization-enhancing-point-cloud/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=window-normalization-enhancing-point-cloud)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/window-normalization-enhancing-point-cloud/semantic-segmentation-on-s3dis-area5)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis-area5?p=window-normalization-enhancing-point-cloud)
 ### S3DIS
 |     Backbone      | Area-5 mIoU/ mAcc/ OA | 6-fold mIoU/ mAcc/ OA|  Params (M) |
 |:-----------------:|:---------------------:|:--------------------:|:-----------:|
