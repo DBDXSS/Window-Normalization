@@ -1,4 +1,4 @@
-# Window Normalization: Enhancing Point Cloud Understanding by Unifying Inconsistent Point Densities
+# [Window Normalization: Enhancing Point Cloud Understanding by Unifying Inconsistent Point Densities](https://doi.org/10.48550/arXiv.2212.02287)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/window-normalization-enhancing-point-cloud/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=window-normalization-enhancing-point-cloud)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/window-normalization-enhancing-point-cloud/semantic-segmentation-on-s3dis-area5)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis-area5?p=window-normalization-enhancing-point-cloud)
 
