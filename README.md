@@ -17,7 +17,7 @@
   title={Window Normalization: Enhancing Point Cloud Understanding by Unifying Inconsistent Point Densities},
   author={Qi Wang and Shengge Shi and Jiahui Li and Wuming Jiang and Xiangde Zhang},
   year={2022},
-  doi={[10.48550/arXiv.2212.02287](https://doi.org/10.48550/arXiv.2212.02287)}
+  doi={10.48550/arXiv.2212.02287}
 }
 ```
 
